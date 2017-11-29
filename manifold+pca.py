@@ -1,7 +1,3 @@
-# Author: Jake Vanderplas -- <vanderplas@astro.washington.edu>
-
-print(__doc__)
-
 from time import time
 
 import matplotlib.pyplot as plt
